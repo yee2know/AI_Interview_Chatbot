@@ -6,6 +6,7 @@
 고등학교 학생부 종합 면접을 도와주는 채팅 봇입니다.
 <br><br>
 ## 명령어
+<br>
 1. /면접 (생기부) <br>
 해당 생기부의 내용으로 면접 질문을 생성한 뒤 자동으로 면접을 진행합니다. <br>
 <br>
@@ -27,9 +28,6 @@
 ## 사용 예시
 <img width="818" alt="Image" src="https://github.com/user-attachments/assets/2461973a-26ad-45d3-9b60-5962379b87eb" />
 <img width="682" alt="Image" src="https://github.com/user-attachments/assets/48850632-8b29-451e-bdfc-0687b1c791d2" />
-
 <img width="671" alt="Image" src="https://github.com/user-attachments/assets/c5496340-f8d3-4450-801b-339d4f623306" />
-
 <img width="667" alt="Image" src="https://github.com/user-attachments/assets/bbf5704d-a5ec-4517-bc81-be9d69dbbd42" />
-
 <img width="672" alt="Image" src="https://github.com/user-attachments/assets/869078d6-6345-4532-815a-a7325a251b22" />
