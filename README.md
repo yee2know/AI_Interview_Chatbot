@@ -19,11 +19,12 @@
 ## 사용법
 ## **안드로이드 핸드폰에서만 실행가능합니다.
 1.아래 링크에서 GEMINI API KEY를 받아줍니다.<br>https://aistudio.google.com/u/2/apikey
-<br>
-2. sdcard/ 디렉토리에 hj라는 폴더를 만들어줍니다.<br>
-3. interview.js를 다운받고 챗봇앱에 적용시킵니다.<br>
-4. 설정에서 '런타임 에러시 전원 끄기'를 끕니다.<br>
-4. 코드를 저장 후 컴파일합니다.<br>
+<br><br>
+2. interview.js를 다운받고 열어서 const APIkey = ""; 부분에 API키를 넣어줍니다.<br><br>
+3. sdcard/ 디렉토리에 hj라는 폴더를 만들어줍니다.<br><br>
+4. interview.js를 챗봇앱에 적용시킵니다.<br><br>
+5. 설정에서 '런타임 에러시 전원 끄기'를 끕니다.<br><br>
+6. 코드를 저장 후 컴파일합니다.<br><br>
 
 ## 사용 예시
 <img width="818" alt="Image" src="https://github.com/user-attachments/assets/2461973a-26ad-45d3-9b60-5962379b87eb" />
